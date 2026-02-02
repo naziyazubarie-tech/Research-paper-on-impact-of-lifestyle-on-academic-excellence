@@ -1,2 +1,16 @@
 # Research-paper-on-impact-of-lifestyle-on-academic-excellence
-This research explores how lifestyle factors such as sleep patterns, daily routines, and screen time influence academic performance among high school students. A survey was conducted with 41 students to gather first-hand data on their study habits, sleep schedules, and use of digital devices. The study aims to identify patterns that correlate with higher academic achievement and provide insights for students and educators to optimize learning strategies. Preliminary findings suggest a significant relationship between consistent routines, adequate sleep, and improved academic performance.
+This repository contains my independent research work focused on human behavior, lifestyle factors, and cognitive performance in teenagers.
+
+## Published Research
+### The Impact of Lifestyle Factors on Academic Performance Among Teenagers
+- Research Type: Survey-based, descriptive study
+- Sample Size: 41 teenage students
+- Focus Areas: Sleep patterns, stress levels, screen time, daily routine
+- Key Finding: Adequate sleep is associated with lower stress, reduced screen time, and higher academic performance
+- Publication: Published with an official DOI
+
+Skills demonstrated:
+- Research methodology
+- Data collection & analysis
+- Scientific writing
+- Graphical data interpretation
